@@ -1,8 +1,3 @@
-Userspace DNS tunnel with support for DoH and DoT
-https://www.bamsoftware.com/software/dnstt/
-David Fifield <david@bamsoftware.com>
-Public domain
-
 dnstt is a DNS tunnel with these features:
  * Works over DNS over HTTPS (DoH) and DNS over TLS (DoT) as well as
    plaintext UDP DNS.
